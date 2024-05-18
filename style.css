@@ -85,12 +85,12 @@ img {
     display: block;
     position: absolute;
     right: 0;
-    backdrop-filter: sepia(20%);
+    backdrop-filter: sepia(10px);
     top: 100%;
     z-index: 1;
     background-color: #000000;
     padding: 20px;
-    min-width: 900px;
+    min-width: 400px;
 }
 
 table {
